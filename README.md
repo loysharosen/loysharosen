@@ -1,4 +1,4 @@
-Medical intern at Karolinska University Hospital. I like running machine learning models on tiny, low-power devices 🤏 🤖 💥
+Physician and aspiring radiologist. I like data science and FLOSS (Free/Libre and Open Source Software). 🩺 📊 🐧
 
 <!---
 loysharosen/loysharosen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
