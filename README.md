@@ -1,4 +1,4 @@
-Physician and aspiring radiologist. I like data science and FLOSS (Free/Libre and Open Source Software). 🩺 📊 🐧
+Physician in training. I like causal inference and FLOSS (Free/Libre and Open Source Software). 🩺 📊 🐧
 
 <!---
 loysharosen/loysharosen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
